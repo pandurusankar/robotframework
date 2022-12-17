@@ -7,4 +7,4 @@ Test Case for Pass
     Should Be Equal    10    10
 
 Test Case for Fail        
-    Should Be Equal    10    11
+    Should Be Equal    10    10
